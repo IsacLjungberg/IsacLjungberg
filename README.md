@@ -14,5 +14,6 @@ Projekt utvecklat med Brian Onoszko, återskapning av Google Chromes "Dinosaur G
 Länk till hela projektet: [Dinosaur Game for the chipkit](https://github.com/BrianOnoszko/Dinosaur-Game-for-the-ChipKIT)
 
 ### Mandelbrot image generator
-Generator för så kallade Mandelbrot bilder, skriven i Elixir. Majoriteten av koden skriven av mig, bidrag för bild utskrivning av Johan Montelius.
-[mandelbrot.ex](mandelbrot.ex)
+Generator för så kallade Mandelbrot bilder, skriven i Elixir. Majoriteten av koden skriven av mig, bidrag för bild utskrivning av Johan Montelius. 
+- Länk till kod [mandelbrot.ex](mandelbrot.ex)
+- Bild exempel generade av koden: [Bild 1](mandelbrotSeries1.png), [Bild 2](mandelbrotSeries2.png), [Bild 3](mandelbrotSeries3.png), [Bild 4](mandelbrotSeries4.png)
