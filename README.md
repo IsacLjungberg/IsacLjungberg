@@ -5,7 +5,7 @@
 - 3D modellering och 3D skulptering i [Blender](https://www.blender.org/)
 
 ## Utbildning
-Studier på KTH, 2022 - pågående
+Studier på KTH, Augusti 2022 - pågående
 
 ## Projekt
 ### Bidrag till Dinosaur Game for the chipkit
