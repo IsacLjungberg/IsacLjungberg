@@ -30,9 +30,9 @@ defmodule PPM do
 
 end
 
-# code not written by Isac Ljungberg above
+# code for writing pixelmap to image file, written by Johan Montelius, in the PPM module above.
 
-# all code written by Isac Ljungberg below
+# code to generate Mandelbrot a pixelmap based on set parameters, and then write to file using the PPM module, and example calls of the main function, below.
 
 defmodule Cmplx do
   def new(r, i) do {r, i} end
