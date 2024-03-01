@@ -9,7 +9,9 @@ My portfolio
 Studier på KTH, 2022 - pågående
 
 # Projekt
-## Contributions till Dinosaur Game for the chipkit
+## Bidrag till Dinosaur Game for the chipkit
+
 
 ## Mandelbrot image generator
-[]
+Generator för så kallade Mandelbrot bilder, skriven i Elixir. Majoriteten av koden skriven av mig, bidrag för bild utskrivning av Johan Montelius.
+[mandelbrot.ex](mandelbrot.ex)
